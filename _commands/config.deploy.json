@@ -1,0 +1,16 @@
+{
+    "pyname":"pausas-activas",
+    "server_root":"pausas-activas",
+    "sbprojects":{
+      "active-breaks":{"type":"apiom","path":"active-breaks","git_modules":""},
+      "Esenttia-PausasA":{"type":"apiom","path":"Esenttia-PausasA","git_modules":""}
+    },
+    "deploy":{
+        "folders_or_files":[
+          "xxx/xxx/xxx.js"
+        ]
+    },
+    "token":"",
+    "user":"nombreApellido",
+    "server":"preproduccion"
+  }

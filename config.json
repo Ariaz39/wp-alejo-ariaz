@@ -1,0 +1,10 @@
+{
+  "pyname":"prueba-Wp-AlejoAriaz",
+  "server_root":"attack-colombia-wordpress",
+  "sbprojects":{
+    "root":{"type":"wordpress"}
+  },
+  "token":"",
+  "user":"AlejandroAriaz",
+  "server":"preproduccion"
+}

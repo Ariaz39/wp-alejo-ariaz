@@ -1,0 +1,11 @@
+{
+  "pyname":"golf",
+  "server_root":"golf",
+  "sbprojects":{
+    "api":{"type":"apiom","path":"api","git_modules":""},
+    "front":{"type":"rendervue","path":"front","git_modules":""}
+  },
+  "token":"",
+  "user":"AndresCastillo",
+  "server":"preproduccion"
+}

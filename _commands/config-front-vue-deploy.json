@@ -1,0 +1,16 @@
+{
+  "pyname":"essentia-agenda",
+  "server_root":"essentia-agenda",
+  "sbprojects":{
+    "api":{"type":"api-third","path":"api"},
+    "front":{"type":"front-third","path":"front","deploy":"front-vue"}
+  },
+  "deploy":{
+    "folders_or_files":[
+      "xxx/xxx/xxx.js"
+    ]
+  },
+  "token":"",
+  "user":"JamithMercado",
+  "server":"preproduccion"
+}

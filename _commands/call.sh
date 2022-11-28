@@ -1,0 +1,1 @@
+php -f _commands/commands.php "$1" "$2" "$3"

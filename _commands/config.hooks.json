@@ -1,0 +1,12 @@
+{
+  "pyname":"CONVIVAMOS",
+  "id":"convivamos",
+  "server_root":"convivamos",
+  "sbprojects":{
+    "root":{"type":"normal"}
+  },
+  "hooks":["pullpush"],
+  "token":"",
+  "user":"AndresCastillo",
+  "server":"preproduccion"
+}
