@@ -1,6 +1,6 @@
 {
-  "pyname":"prueba-Wp-AlejoAriaz",
-  "server_root":"attack-colombia-wordpress",
+  "pyname":"test-wp-alejo-ariaz",
+  "server_root":"test-wp-alejo-ariaz",
   "sbprojects":{
     "root":{"type":"wordpress"}
   },
